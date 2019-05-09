@@ -231,4 +231,24 @@ nav.navbar {
 }
 #contact_fine_print: {
     font-size: 12px !important;
+    text-align: center;
+}
+
+address {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+.contact_bottom {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.requiredStar::after {
+    content: '*';
+    color: #000;
+}
+
+#menu li #Appetizer {
+    padding-top: 15px;
 }
