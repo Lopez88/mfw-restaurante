@@ -86,7 +86,8 @@ nav.navbar {
 }
 
 /* OUR STORY section */
-#our_story, menu {
+
+#our_story, #menu {
     min-height: 600px;
 }
 #our_story .row {
